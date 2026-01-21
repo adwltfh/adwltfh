@@ -66,7 +66,7 @@ hobbies: ["Gaming", "Art", "Reading"]
 ---
 
 <h2 align="left"> 🔗 &nbsp;Let's Connect and Have a Chat!</h2>
-<p align="center">
+<p align="left">
 <a href="https://-.netlify.app/">
   <img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"/>
 </a>
