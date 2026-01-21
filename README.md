@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 <h2 align="left"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-<img align="right" width=400 src="https://static.wixstatic.com/media/13bf17_ac92708513ee46809bce0b7f975e952d~mv2.png/v1/fill/w_1920,h_1080,al_c/13bf17_ac92708513ee46809bce0b7f975e952d~mv2.png" alt="coding gif">
+<img align="right" width=400 src="cute_cat_coder.png" alt="cute cat coder">
 
 ```yaml
 name: Adawiyyah Latifah
