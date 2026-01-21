@@ -17,11 +17,12 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&text=Hello!&height=200&section=header"/>
 </p>
 
----
-
 <h2 align="left"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-<img align="right" width=400 src="cute_cat_coder.png" alt="cute cat coder">
 
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
+  
 ```yaml
 name: Adawiyyah Latifah
 located_in: South Jakarta, Indonesia
@@ -32,7 +33,6 @@ education:
     "Full Stack Data Analytics",
   ]
 company: PT Integra Solusi Mandiri (2 YoE)
-
 fields_of_interests:
   [
     "Web Development",
@@ -44,7 +44,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer"
+    "Full Stack Developer",
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
@@ -55,12 +55,15 @@ currently_learning: ["SEO Optimation, MongoDB, Python (Backend)"]
 2026 Goals: ["Enhance frontend skills, learning new techs, create 10+ projects."]
 hobbies: ["Gaming", "Art", "Reading"]
 ```
----  
 
-<!-- socials -->
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+</td>
+<td width="50%" align="center">
+  <img width="400" src="cute_cat_coder.png" alt="cute cat coder">
+</td>
+</tr>
+</table>
+
+---
 
 <p align="center">
 <a href="https://piyushmalhotra.netlify.app/">
